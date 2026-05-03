@@ -1,0 +1,7 @@
+[project]
+name = "demo-03-creating-response-format-negotiation-for-multi-agent-communication"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
